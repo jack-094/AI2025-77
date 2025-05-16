@@ -45,6 +45,12 @@ AI分身舉牌：「這才叫高效又誠實的AI應用唷～」
 主標：「AI 分身術：讓你期末爆量不爆炸！」
 
 副標：用對工具，三頭六臂不是夢；期末不怕忙，一鍵搞定全場！
+
+
+
+
+
+
 Lab 2: 故事腳本設計 by Special Prompt (i.e., 秘笈)
 1️⃣
 [EN] Scene 1: A student is asking ChatGPT for help with homework... but instead of an answer, GPT starts singing a pop song.
